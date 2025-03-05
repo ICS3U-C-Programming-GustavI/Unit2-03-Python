@@ -6,6 +6,7 @@
 # of the pizza along with tax
 import constants
 
+
 def main():
     # input
     diameter = int(input("Please enter the diameter of the pizza (inches): "))
